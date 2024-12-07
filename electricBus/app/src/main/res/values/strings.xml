@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">electricBus</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="welcome_back">WELCOME</string>
+    <string name="login_to_continue">Login To Continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Login</string>
+</resources>
